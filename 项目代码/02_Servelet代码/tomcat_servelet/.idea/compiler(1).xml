@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="log-collector-common" />
+        <module name="log-collector-web" />
+        <module name="tomcat_servelet" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="log-collector-common" target="1.5" />
+      <module name="log-collector-web" target="1.5" />
+      <module name="tomcat_servelet" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+com\atguigu\common_behavior\StartupReportLogs.class
+com\atguigu\common_behavior\ErrorReportLogs.class
+com\atguigu\common_behavior\BasicLog.class
+com\atguigu\common_behavior\PageVisitReportLogs.class

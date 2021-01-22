@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/log-collector-common/log-collector-common.iml" filepath="$PROJECT_DIR$/log-collector-common/log-collector-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/log-collector-web/log-collector-web.iml" filepath="$PROJECT_DIR$/log-collector-web/log-collector-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tomcat_servelet.iml" filepath="$PROJECT_DIR$/tomcat_servelet.iml" />
+    </modules>
+  </component>
+</project>

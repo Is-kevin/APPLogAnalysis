@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: bigdata-umeng:app-analyze-common:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/bigdata-umeng/app-analyze-common/1.0-SNAPSHOT/app-analyze-common-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/bigdata-umeng/app-analyze-common/1.0-SNAPSHOT/app-analyze-common-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/bigdata-umeng/app-analyze-common/1.0-SNAPSHOT/app-analyze-common-1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+com\atguigu\flume\source\ReliableTaildirEventReader$1.class
+com\atguigu\flume\source\TaildirSource$idleFileCheckerRunnable.class
+com\atguigu\flume\source\TaildirSourceConfigurationConstants.class
+com\atguigu\flume\source\TaildirSource$PositionWriterRunnable.class
+com\atguigu\flume\source\PollableSourceConstants.class
+com\atguigu\flume\source\ReliableTaildirEventReader.class
+com\atguigu\flume\source\TaildirMatcher$1.class
+com\atguigu\flume\source\ReliableTaildirEventReader$Builder.class
+com\atguigu\flume\source\TaildirMatcher.class
+com\atguigu\flume\source\TaildirSource$1.class
+com\atguigu\flume\source\TaildirSource.class
+com\atguigu\flume\source\TailFile$LineResult.class
+com\atguigu\flume\source\TailFile.class
+com\atguigu\flume\source\TaildirMatcher$2.class
